@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.log
+*.sqlite3
+*.db
+*.ipynb_checkpoints/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.settings/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Models
+models/
+
+# Results
+results/
+
+# Data
+happy_dataset.csv
+data_for_text/
+dataset_audio/
+
+# Uploads
+uploads/
+
+# Test samples
+test_samples/
+
+# Database
+photo/
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Ignore database folder
+Database/
+database/
